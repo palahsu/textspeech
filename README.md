@@ -10,9 +10,9 @@ A python program that helps you to read your text in lady robot voice at your pa
 
 `pip install tkinter`
 
-## Windows
-
 ## Requirments Device
+
+●Windows
 
 ## For more help join Telegram Group:
 
