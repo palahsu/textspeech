@@ -10,11 +10,13 @@ A python program that helps you to read your text in lady robot voice at your pa
 
 `pip install tkinter`
 
+## Windows
+
+## Requirments Device
+
 ## For more help join Telegram Group:
 
-◑https://t.me/AD0000000
-
-◑http://t.me/linux_repo
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Follow on:
 <p align="left">
@@ -24,3 +26,5 @@ A python program that helps you to read your text in lady robot voice at your pa
 </p><p align="left">
 <a href="https://facebook.com/Aduri.knox"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
+<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+</p><p align="left"> 
